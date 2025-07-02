@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(203, 149, 84);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+#Content{
+    background-color: whitesmoke;
+    height: 500px;
+    width: 400px;
+    border-radius: 4%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+#btn1{
+    background-color: rgb(148, 74, 170);
+    border-radius: 8%;
+    border: none;
+    width: 150px;
+    height: 50px;
+    color: antiquewhite;
+    
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.middle{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.dropdown{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+i{
+     padding-top: 50px;
+     padding-right: 50px;
+}
